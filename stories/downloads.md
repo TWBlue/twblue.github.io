@@ -19,9 +19,9 @@ Last version: 2023.04.13
 
 #### Installer
 
-[Download TWBlue 2023.04.13 installer for windows (32 and 64 bits)](https://twblue.es/pubs/twblue_setup.exe)
+[Download TWBlue 2023.04.13 installer for windows (32 and 64 bits)](https://github.com/MCV-Software/TWBlue/releases/download/v2023.4.13/TWBlue_setup_2023.4.13.exe)
 
 #### Portable versions
 
-[Download TWBlue 2023.04.13 for 32 bits](https://twblue.es/pubs/twblue_x86.zip) |
-[Download TWBlue 2023.04.13 for 64 bits](https://twblue.es/pubs/twblue_x64.zip)
+[Download TWBlue 2023.04.13 for 32 bits](https://github.com/MCV-Software/TWBlue/releases/download/v2023.4.13/TWBlue_x86_2023.4.13.zip) |
+[Download TWBlue 2023.04.13 for 64 bits](https://github.com/MCV-Software/TWBlue/releases/download/v2023.4.13/TWBlue_portable_2023.4.13.zip)
