@@ -1,4 +1,4 @@
-Sitemap: https://twblue.es/sitemapindex.xml
+Sitemap: https://twblue.mcvsoftware.com/sitemapindex.xml
 
 User-Agent: *
-Host: twblue.es
+Host: twblue.mcvsoftware.com
