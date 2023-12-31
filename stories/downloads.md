@@ -11,11 +11,11 @@
 
 ## Download TW Blue to your PC
 
-### Last release: 2023.04.13
+### Latest release: 2023.04.13
 
-You can always download the last version of TW Blue by pressing on the following link. When new versions are available, the application will notify you as soon as you run it, and you will be able to automatically download and install this update. Do not forget that you can always check for updates from the help menu as well.
+You can always download the latest version of TW Blue by pressing on the following link. When new versions are available, the application will notify you as soon as you run it, and you will be able to automatically download and install this update. Do not forget that you can always check for updates from the help menu as well.
 
-Last version: 2023.04.13  
+Latest version: 2023.04.13  
 
 #### Installer
 
