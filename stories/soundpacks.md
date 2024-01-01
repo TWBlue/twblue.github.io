@@ -21,16 +21,16 @@ To change the soundpack you are using open TWBlue and go to preferences, sound. 
 List of Available Soundpacks
 ----------------------------
 
-Note: If you own any of the sounds used in these packs and would like them removed, please email <info@twblue.es>
+Note: If you own any of the sounds used in these packs and would like them removed, please email <info@mcvsoftware.com>
 
 Name | creator | version of TWBlue supported
   ----------------------------------------------------------------------------------------------------------| ---------------------------------------------------- | -----------------------------
-[Default](https://twblue.es/extra-contents/soundpacks/default.zip) | [The TWBlue Team](https://twitter.com/tw_blue2) | 0.94
-[Magical Fountain](https://twblue.es/extra-contents/soundpacks/magical-fountain.zip) | [Valeria K.](https://twitter.com/CherryLumina) | 0.94
-[Classic](https://twblue.es/extra-contents/soundpacks/magical-fountain.zip) | [The TWBlue Team](https://twitter.com/tw_blue2) | 0.94
-[Qwitter](https://twblue.es/extra-contents/soundpacks/qwitter.zip) | [The TWBlue Team](https://twitter.com/tw_blue2) | 0.94
-[Fighting Games](https://twblue.es/extra-contents/soundpacks/fighting-games.zip) | [@deng90](https://twitter.com/deng90) | 0.94
-[hmr modified](https://twblue.es/extra-contents/soundpacks/hmr-modified.zip) | [Steve Mann](https://twitter.com/maerlynofmiria) | 0.94
+[Default](https://twblue.mcvsoftware.com/extra-contents/soundpacks/default.zip) | [The TWBlue Team](https://twitter.com/tw_blue2) | 0.94
+[Magical Fountain](https://twblue.mcvsoftware.com/extra-contents/soundpacks/magical-fountain.zip) | [Valeria K.](https://twitter.com/CherryLumina) | 0.94
+[Classic](https://twblue.mcvsoftware.com/extra-contents/soundpacks/magical-fountain.zip) | [The TWBlue Team](https://twitter.com/tw_blue2) | 0.94
+[Qwitter](https://twblue.mcvsoftware.com/extra-contents/soundpacks/qwitter.zip) | [The TWBlue Team](https://twitter.com/tw_blue2) | 0.94
+[Fighting Games](https://twblue.mcvsoftware.com/extra-contents/soundpacks/fighting-games.zip) | [@deng90](https://twitter.com/deng90) | 0.94
+[hmr modified](https://twblue.mcvsoftware.com/extra-contents/soundpacks/hmr-modified.zip) | [Steve Mann](https://twitter.com/maerlynofmiria) | 0.94
 
 Submitting a Soundpack
 ----------------------

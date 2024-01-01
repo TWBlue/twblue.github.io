@@ -21,30 +21,30 @@ Aby zmienić obecnie używaną paczkę, należy otworzyć TW Blue, ustawienia, d
 Lista dostępnych paczek dźwiękowych
 ----------------------------
 
-Uwaga: Jeżeli jesteś właścicielem dźwięków znajdujących się w tych paczkach i chcesz żeby zostały stamtąd usunięte, pisz na adres <info@twblue.es>
+Uwaga: Jeżeli jesteś właścicielem dźwięków znajdujących się w tych paczkach i chcesz żeby zostały stamtąd usunięte, pisz na adres <info@mcvsoftware.com>
 
 Nazwa | Twórca | Wspierana wersja TWBlue
   ----------------------------------------------------------------------------------------------------------| ---------------------------------------------------- | -----------------------------
-[Default](http://twblue.es/extra-contents/soundpacks/default.zip) | [The TWBlue Team](https://twitter.com/tw_blue2) | 0.93
-[Magical Fountain](http://twblue.es/extra-contents/soundpacks/magical-fountain.zip) | [Valeria K.](https://twitter.com/ValeriaK305) | 0.93
-[Punch Out](http://twblue.es/extra-contents/soundpacks/punch-out.zip) | [Duyahn Walker](https://twitter.com/themusicman08) | 0.93
-[The Legend of Zelda](http://twblue.es/extra-contents/soundpacks/the-legend-of-zelda.zip) | [Duyahn Walker](https://twitter.com/themusicman08) | 0.93
-[Celu Blue](http://twblue.es/extra-contents/soundpacks/celu-blue.zip) | [Marcelo Sosa](https://twitter.com/marcedsosa) | 0.93
-[iOs](http://twblue.es/extra-contents/soundpacks/ios.zip) | [David Martínez](https://twitter.com/JMundstok) | 0.93
-[Playroom](http://twblue.es/extra-contents/soundpacks/playroom.zip) | [David Martínez](https://twitter.com/JMundstok) | 0.93
-[Windows](http://twblue.es/extra-contents/soundpacks/windows.zip) | [David Martínez](https://twitter.com/JMundstok) | 0.93
-[Tw Sounds X](http://twblue.es/extra-contents/soundpacks/tw-sounds-x.zip) | [Javier Orduña](https://twitter.com/xaverius84) | 0.93
-[Sonidos de Cartoon Network](http://twblue.es/extra-contents/soundpacks/sonidos-cartoon-network.zip) | [Andrés Nava](https://twitter.com/andresnava28) | 0.93
-[Sonidos de Samsung](http://twblue.es/extra-contents/soundpacks/sonidos-de-samsung.zip) | [Andrés Nava](https://twitter.com/andresnava28) | 0.93
-[Sonidos de La sala de juegos](http://twblue.es/extra-contents/soundpacks/sonidos-la-sala-de-juegos.zip) | [Andrés Nava](https://twitter.com/andresnava28)  | 0.93
-[Erithro](http://twblue.es/extra-contents/soundpacks/erithro.zip) | [David Martínez](https://twitter.com/DavithZahot) | 0.93
-[Comical](http://twblue.es/extra-contents/soundpacks/comical.zip) |  [David Martínez](https://twitter.com/DavithZahot) | 0.93
-[Mario Bross](http://twblue.es/extra-contents/soundpacks/mario-bross.zip) | [David Martínez](https://twitter.com/DavithZahot) | 0.93
-[Special](http://twblue.es/extra-contents/soundpacks/special.zip) | [David Martínez](https://twitter.com/DavithZahot) | 0.93
+[Default](http://twblue.mcvsoftware.com/extra-contents/soundpacks/default.zip) | [The TWBlue Team](https://twitter.com/tw_blue2) | 0.93
+[Magical Fountain](http://twblue.mcvsoftware.com/extra-contents/soundpacks/magical-fountain.zip) | [Valeria K.](https://twitter.com/ValeriaK305) | 0.93
+[Punch Out](http://twblue.mcvsoftware.com/extra-contents/soundpacks/punch-out.zip) | [Duyahn Walker](https://twitter.com/themusicman08) | 0.93
+[The Legend of Zelda](http://twblue.mcvsoftware.com/extra-contents/soundpacks/the-legend-of-zelda.zip) | [Duyahn Walker](https://twitter.com/themusicman08) | 0.93
+[Celu Blue](http://twblue.mcvsoftware.com/extra-contents/soundpacks/celu-blue.zip) | [Marcelo Sosa](https://twitter.com/marcedsosa) | 0.93
+[iOs](http://twblue.mcvsoftware.com/extra-contents/soundpacks/ios.zip) | [David Martínez](https://twitter.com/JMundstok) | 0.93
+[Playroom](http://twblue.mcvsoftware.com/extra-contents/soundpacks/playroom.zip) | [David Martínez](https://twitter.com/JMundstok) | 0.93
+[Windows](http://twblue.mcvsoftware.com/extra-contents/soundpacks/windows.zip) | [David Martínez](https://twitter.com/JMundstok) | 0.93
+[Tw Sounds X](http://twblue.mcvsoftware.com/extra-contents/soundpacks/tw-sounds-x.zip) | [Javier Orduña](https://twitter.com/xaverius84) | 0.93
+[Sonidos de Cartoon Network](http://twblue.mcvsoftware.com/extra-contents/soundpacks/sonidos-cartoon-network.zip) | [Andrés Nava](https://twitter.com/andresnava28) | 0.93
+[Sonidos de Samsung](http://twblue.mcvsoftware.com/extra-contents/soundpacks/sonidos-de-samsung.zip) | [Andrés Nava](https://twitter.com/andresnava28) | 0.93
+[Sonidos de La sala de juegos](http://twblue.mcvsoftware.com/extra-contents/soundpacks/sonidos-la-sala-de-juegos.zip) | [Andrés Nava](https://twitter.com/andresnava28)  | 0.93
+[Erithro](http://twblue.mcvsoftware.com/extra-contents/soundpacks/erithro.zip) | [David Martínez](https://twitter.com/DavithZahot) | 0.93
+[Comical](http://twblue.mcvsoftware.com/extra-contents/soundpacks/comical.zip) |  [David Martínez](https://twitter.com/DavithZahot) | 0.93
+[Mario Bross](http://twblue.mcvsoftware.com/extra-contents/soundpacks/mario-bross.zip) | [David Martínez](https://twitter.com/DavithZahot) | 0.93
+[Special](http://twblue.mcvsoftware.com/extra-contents/soundpacks/special.zip) | [David Martínez](https://twitter.com/DavithZahot) | 0.93
 
 Wysyłanie paczki dźwiękowej
 ----------------------
 
-Przed wysłaniem własnej paczki dźwiękowej stwórz ją na wzór paczki domyślnej. Upewnij się, czy nazwy i rozszerzenia plików w twojej paczce są poprawne. Jeżeli chcesz wysłać ją na naszą stronę i udostępnić wszystkim użytkownikom, wyślij e-mail z linkiem do paczki na adres <info@twblue.es> lub tweet [@tw\_blue2](https://twitter.com/tw_blue2). Stamtąd będziemy mogli ją pobrać.
+Przed wysłaniem własnej paczki dźwiękowej stwórz ją na wzór paczki domyślnej. Upewnij się, czy nazwy i rozszerzenia plików w twojej paczce są poprawne. Jeżeli chcesz wysłać ją na naszą stronę i udostępnić wszystkim użytkownikom, wyślij e-mail z linkiem do paczki na adres <info@twblue.mcvsoftware.com> lub tweet [@tw\_blue2](https://twitter.com/tw_blue2). Stamtąd będziemy mogli ją pobrać.
 
 Dziękujemy!

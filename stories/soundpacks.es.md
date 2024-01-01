@@ -21,16 +21,16 @@ Para cambiar de un paquete de sonido a otro, dirígete a las preferencias de TW 
 Lista de paquetes de sonido disponibles
 ----------------------------
 
-Nota: Si eres el titular de los sonidos de alguno de los paquetes publicados en esta página y crees que se han violado los derechos de propiedad intelectual de tu contenido, envíanos un correo electrónico a la dirección <manuel@manuelcortez.net>
+Nota: Si eres el titular de los sonidos de alguno de los paquetes publicados en esta página y crees que se han violado los derechos de propiedad intelectual de tu contenido, envíanos un correo electrónico a la dirección <info@mcvsoftware.com>
 
 Nombre | Creador | Versión de TWBlue soportada
   ----------------------------------------------------------------------------------------------------------| ---------------------------------------------------- | -----------------------------
-[Default](https://twblue.es/extra-contents/soundpacks/default.zip) | [The TWBlue Team](https://twitter.com/tw_blue2) | 0.94
-[Magical Fountain](https://twblue.es/extra-contents/soundpacks/magical-fountain.zip) | [Valeria K.](https://twitter.com/CherryLumina) | 0.94
-[Classic](https://twblue.es/extra-contents/soundpacks/magical-fountain.zip) | [The TWBlue Team](https://twitter.com/tw_blue2) | 0.94
-[Qwitter](https://twblue.es/extra-contents/soundpacks/qwitter.zip) | [The TWBlue Team](https://twitter.com/tw_blue2) | 0.94
-[Fighting Games](https://twblue.es/extra-contents/soundpacks/fighting-games.zip) | [@deng90](https://twitter.com/deng90) | 0.94
-[hmr modified](https://twblue.es/extra-contents/soundpacks/hmr-modified.zip) | [Steve Mann](https://twitter.com/maerlynofmiria) | 0.94
+[Default](https://twblue.mcvsoftware.com/extra-contents/soundpacks/default.zip) | [The TWBlue Team](https://twitter.com/tw_blue2) | 0.94
+[Magical Fountain](https://twblue.mcvsoftware.com/extra-contents/soundpacks/magical-fountain.zip) | [Valeria K.](https://twitter.com/CherryLumina) | 0.94
+[Classic](https://twblue.mcvsoftware.com/extra-contents/soundpacks/magical-fountain.zip) | [The TWBlue Team](https://twitter.com/tw_blue2) | 0.94
+[Qwitter](https://twblue.mcvsoftware.com/extra-contents/soundpacks/qwitter.zip) | [The TWBlue Team](https://twitter.com/tw_blue2) | 0.94
+[Fighting Games](https://twblue.mcvsoftware.com/extra-contents/soundpacks/fighting-games.zip) | [@deng90](https://twitter.com/deng90) | 0.94
+[hmr modified](https://twblue.mcvsoftware.com/extra-contents/soundpacks/hmr-modified.zip) | [Steve Mann](https://twitter.com/maerlynofmiria) | 0.94
 
 Enviar tu propio paquete de sonido
 ----------------------
