@@ -28,21 +28,21 @@
  <url>
   <loc>https://twblue.mcvsoftware.com/documentation/</loc>
   <lastmod>2024-01-05T23:51:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ru" href="https://twblue.mcvsoftware.com/ru/documentation/" />
   <xhtml:link rel="alternate" hreflang="es" href="https://twblue.mcvsoftware.com/es/documentation/" />
+  <xhtml:link rel="alternate" hreflang="ru" href="https://twblue.mcvsoftware.com/ru/documentation/" />
  </url>
  <url>
   <loc>https://twblue.mcvsoftware.com/donate/</loc>
   <lastmod>2024-01-05T23:51:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="https://twblue.mcvsoftware.com/es/donate/" />
   <xhtml:link rel="alternate" hreflang="ru" href="https://twblue.mcvsoftware.com/ru/donate/" />
   <xhtml:link rel="alternate" hreflang="pl" href="https://twblue.mcvsoftware.com/pl/donate/" />
-  <xhtml:link rel="alternate" hreflang="es" href="https://twblue.mcvsoftware.com/es/donate/" />
  </url>
  <url>
   <loc>https://twblue.mcvsoftware.com/downloads/</loc>
   <lastmod>2024-01-05T23:51:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ru" href="https://twblue.mcvsoftware.com/ru/downloads/" />
   <xhtml:link rel="alternate" hreflang="es" href="https://twblue.mcvsoftware.com/es/downloads/" />
+  <xhtml:link rel="alternate" hreflang="ru" href="https://twblue.mcvsoftware.com/ru/downloads/" />
  </url>
  <url>
   <loc>https://twblue.mcvsoftware.com/es/</loc>
@@ -104,8 +104,8 @@
  <url>
   <loc>https://twblue.mcvsoftware.com/faq/</loc>
   <lastmod>2024-01-05T23:51:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="pl" href="https://twblue.mcvsoftware.com/pl/faq/" />
   <xhtml:link rel="alternate" hreflang="es" href="https://twblue.mcvsoftware.com/es/faq/" />
+  <xhtml:link rel="alternate" hreflang="pl" href="https://twblue.mcvsoftware.com/pl/faq/" />
  </url>
  <url>
   <loc>https://twblue.mcvsoftware.com/fr/</loc>
@@ -183,14 +183,14 @@
  <url>
   <loc>https://twblue.mcvsoftware.com/soundpacks/</loc>
   <lastmod>2024-01-05T23:51:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="https://twblue.mcvsoftware.com/es/soundpacks/" />
   <xhtml:link rel="alternate" hreflang="ru" href="https://twblue.mcvsoftware.com/ru/soundpacks/" />
   <xhtml:link rel="alternate" hreflang="pl" href="https://twblue.mcvsoftware.com/pl/soundpacks/" />
-  <xhtml:link rel="alternate" hreflang="es" href="https://twblue.mcvsoftware.com/es/soundpacks/" />
  </url>
  <url>
   <loc>https://twblue.mcvsoftware.com/team/</loc>
   <lastmod>2024-01-05T23:51:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="pl" href="https://twblue.mcvsoftware.com/pl/team/" />
   <xhtml:link rel="alternate" hreflang="es" href="https://twblue.mcvsoftware.com/es/team/" />
+  <xhtml:link rel="alternate" hreflang="pl" href="https://twblue.mcvsoftware.com/pl/team/" />
  </url>
 </urlset>
