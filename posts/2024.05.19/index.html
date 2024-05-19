@@ -119,27 +119,20 @@
 <p>Below is the detailed list of changes:</p>
 <ul>
 <li>Core:<ul>
-<li>The TWBlue website will no longer be available on the twblue.es domain. Beginning in January 2024, TWBlue will live at https://twblue.mcvsoftware.com. Also, we will start releasing versions on <a href="https://github.com/mcv-software/twblue/releases">gitHub releases</a> so it will be easier to track specific versions.</li>
-<li>As of the first release of TWBlue in 2024, we will officially stop generating 32-bit (X86) compatible binaries due to the increasing difficulty of generating versions compatible with this architecture in modern Python.</li>
-<li>TWBlue should be more reliable when checking for updates.</li>
-<li>If running from source, automatic updates will not be checked as this works only for distribution. (<a href="https://github.com/MCV-Software/TWBlue/pull/540">#540</a>)</li>
-<li>Fixed the 'report an error' item in the help menu. Now this item redirects to our gitHub issue tracker. (<a href="https://github.com/MCV-Software/TWBlue/pull/524">#524</a>)</li>
+<li>Added Initial Support to GoToSocial. Some features are not fully implemented yet, although GoToXocial instances should be able to be used as normal sessions in TWBlue. Streaming, poll options and markdown are not supported but planned for the near future.</li>
+<li>The translation module has been rewritten. Now, instead of offering translations with Google Translator, the user can choose between <a href="https://github.com/LibreTranslate/LibreTranslate">LibreTranslate,</a> which requires no configuration thanks to the <a href="https://translate.nvda.es">instance of the NVDA Spanish community;</a> or translate using <a href="https://deepl.com">DeepL,</a> for which it is necessary to create an account on DeepL and <a href="https://support.deepl.com/hc/en-us/articles/360021200939-DeepL-API-Free">subscribe to a DeepL API Free plan</a> to obtain the API key which can be used to translate up to 500000 characters every month. The API key can be entered in the global options dialog, under a new tab called translation services. When translating a text, the translation engine can be changed. When changing the translation engine, the target language must be selected again before translation takes place.</li>
+<li>TWBlue should be able to switch to Windows 11 Keymap when running under Windows 11. (<a href="https://github.com/mcv-software/twblue/issues/494">#494</a>)</li>
 </ul>
 </li>
 <li>Mastodon:<ul>
-<li>Implemented actions for the notifications buffer on a mastodon instance. Actions can be performed from the contextual menu on every notification, or by using invisible keystrokes. (<a href="https://github.com/mcv-software/twblue/issues/517">#517</a>)</li>
-<li>Implemented update profile dialog. (<a href="https://github.com/MCV-Software/TWBlue/pull/547">#547</a>)</li>
-<li>It is possible to display an user profile from the user menu within the menu bar, or by using the invisible keystroke for user details. (<a href="https://github.com/MCV-Software/TWBlue/pull/555">#555</a>)</li>
-<li>Added possibility to vote in polls. This is mapped to Alt+Win+Shift+V in the invisible keymaps for windows 10/11.</li>
-<li>Added posts search. Take into account that Mastodon instances should be configured with full text search enabled. Search for posts only include posts the logged-in user has interacted with. (<a href="https://github.com/MCV-Software/TWBlue/pull/541">#541</a>)</li>
-<li>Added user autocompletion settings in account settings dialog, so it is possible to ask TWBlue to scan mastodon accounts and add people from followers and following buffers. For now, user autocompletion can be used only when composing new posts or replies.</li>
-<li>TWBlue should be able to ignore deleted direct messages or messages from deleted accounts. Previously, a direct message that no longer existed in the instance caused errors when loading the direct messages buffer and could potentially affect notifications as well.</li>
-<li>TWBlue should be able to ignore notifications from deleted accounts or posts.</li>
+<li>Added support for viewing communities: A community timeline is the local or public timeline of another instance. This is especially useful when the instance one is part of does not federate with other remote instances. The posts displayed are only those that are shared publicly. It is possible to interact with the posts from community timelines, but it should be noted that TWBlue will take some time to retrieve the post one wishes to interact with.</li>
+<li>When viewing a post, a button displays the number of boosts and times it has been added to favorites. Clicking on that button will open a list of users who have interacted with the post. From that list, it is possible to view profiles and perform common user actions.</li>
+<li>Now it is possible to mute conversations in Mastodon sessions. To do this, there is a button that can be called "Mute" or "Unmute Conversation" in the dialog to display the post. Conversations that have been muted will not generate notifications or mentions when they receive new replies. Only conversations that you are a part of can be muted.</li>
+<li>Fixed an error that caused TWBlue to be unable to properly display the user action dialog from the followers or following buffer. (<a href="https://github.com/mcv-software/twblue/issues/575">#575</a>)</li>
 </ul>
 </li>
 </ul>
-<p>As always, you can download the latest version of TWBlue, if you haven't done so already, through our <a href="https://twblue.mcvsoftware.com/downloads">Downloads Page</a> or from <a href="https://github.com/mcv-software/twblue/releases">GitHub releases.</a> TWBlue users can update the application automatically. You can also report bugs or suggest new features through our Mastodon account at <a href="https://maaw.social/@twblue">@twblue@maaw.social</a> or via our <a href="https://github.com/mcv-software/twblue/issues">Issue Tracker at GitHub</a>.</p>
-    </div>
+</div>
     <aside class="postpromonav"><nav><ul class="pager hidden-print">
 <li class="previous">
                 <a href="../2024.1.5/" rel="prev" title="TWBlue Version 2024.1.5 has been released">Previous post</a>
