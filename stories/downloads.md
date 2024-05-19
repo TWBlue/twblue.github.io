@@ -11,16 +11,16 @@
 
 ## Download TW Blue to your PC
 
-### Latest release: 2024.01.05
+### Latest release: 2024.05.19
 
 You can always download the latest version of TW Blue by pressing on the following link. When new versions are available, the application will notify you as soon as you run it, and you will be able to automatically download and install this update. Do not forget that you can always check for updates from the help menu as well.
 
-Latest version: 2024.01.05  
+Latest version: 2024.05.19  
 
 #### Installer
 
-[Download TWBlue 2024.01.05 installer for windows](https://github.com/MCV-Software/TWBlue/releases/download/release/TWBlue_setup_v2024.01.05.exe)
+[Download TWBlue 2024.05.19 installer for windows](https://github.com/MCV-Software/TWBlue/releases/download/release/TWBlue_setup_v2024.05.19.exe)
 
 #### Portable versions
 
-[Download TWBlue 2024.01.05 portable](https://github.com/MCV-Software/TWBlue/releases/download/release/TWBlue_portable_v2024.01.05.zip)
+[Download TWBlue 2024.05.19 portable](https://github.com/MCV-Software/TWBlue/releases/download/release/TWBlue_portable_v2024.05.19.zip)
