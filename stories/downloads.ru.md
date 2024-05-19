@@ -19,8 +19,8 @@
 
 #### Установочная версия
 
-[Скачать установочную версию TWBlue 2024.05.19 для windows](https://github.com/MCV-Software/TWBlue/releases/download/release/TWBlue_setup_v2024.05.19.exe)
+[Скачать установочную версию TWBlue 2024.05.19 для windows](https://github.com/MCV-Software/TWBlue/releases/download/v2024.05.19/TWBlue_setup_v2024.05.19.exe)
 
 #### Портабельные версии
 
-[Скачать TWBlue 2024.05.19](https://github.com/MCV-Software/TWBlue/releases/download/release/TWBlue_portable_v2024.05.19.zip)
+[Скачать TWBlue 2024.05.19](https://github.com/MCV-Software/TWBlue/releases/download/v2024.05.19/TWBlue_portable_v2024.05.19.zip)

@@ -19,8 +19,8 @@ Descarga siempre la última versión pulsando sobre el siguiente enlace. Al publ
 
 #### Versión instalable
 
-[Descarga TWBlue 2024.05.19 (instalador para windows)](https://github.com/MCV-Software/TWBlue/releases/download/release/TWBlue_setup_v2024.05.19.exe)
+[Descarga TWBlue 2024.05.19 (instalador para windows)](https://github.com/MCV-Software/TWBlue/releases/download/v2024.05.19/TWBlue_setup_v2024.05.19.exe)
 
 #### Versión portable
 
-[Descarga TWBlue 2024.05.19 portable](https://github.com/MCV-Software/TWBlue/releases/download/release/TWBlue_portable_v2024.05.19.zip)
+[Descarga TWBlue 2024.05.19 portable](https://github.com/MCV-Software/TWBlue/releases/download/v2024.05.19/TWBlue_portable_v2024.05.19.zip)

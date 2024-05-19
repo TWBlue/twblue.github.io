@@ -19,8 +19,8 @@ Latest version: 2024.05.19
 
 #### Installer
 
-[Download TWBlue 2024.05.19 installer for windows](https://github.com/MCV-Software/TWBlue/releases/download/release/TWBlue_setup_v2024.05.19.exe)
+[Download TWBlue 2024.05.19 installer for windows](https://github.com/MCV-Software/TWBlue/releases/download/v2024.05.19/TWBlue_setup_v2024.05.19.exe)
 
 #### Portable versions
 
-[Download TWBlue 2024.05.19 portable](https://github.com/MCV-Software/TWBlue/releases/download/release/TWBlue_portable_v2024.05.19.zip)
+[Download TWBlue 2024.05.19 portable](https://github.com/MCV-Software/TWBlue/releases/download/v2024.05.19/TWBlue_portable_v2024.05.19.zip)
